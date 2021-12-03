@@ -7,12 +7,12 @@ Main objective was to train self in Exploratory Data Analysis. Hence, project wi
 # Results
 Selected Variables
 -------------------------
-(results/var-correlation.JPG)
+![top five var](/results/var-correlation.JPG)
  
 
 Clustering Analysis 
 -------------------------
-(results/cluster-test.JPG)
+![dendrogram](/results/cluster-test.JPG)
 Outcomes are based on two factors: 
 1 = Positive Case
 2 = False case
