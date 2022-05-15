@@ -12,8 +12,8 @@ Selected Variables
 
 Clustering Analysis 
 -------------------------
-![dendrogram](/results/cluster-test.JPG)&nbsp;
-Outcomes are based on two factors:&nbsp;
-1 = Positive Case&nbsp;
-2 = False case&nbsp;
-Note: Numbers represent individual patients within testing set&nbsp;.
+![dendrogram](/results/cluster-test.JPG)
+Outcomes are based on two factors:<br />
+1 = Positive Case<br />
+2 = False case<br />
+Note: Numbers represent individual patients within testing set.
