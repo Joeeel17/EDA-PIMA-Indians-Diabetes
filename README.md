@@ -12,7 +12,7 @@ Selected Variables
 
 Clustering Analysis 
 -------------------------
-![dendrogram](/results/cluster-test.JPG)
+![dendrogram](/results/cluster-test.JPG)<br />
 Outcomes are based on two factors:<br />
 1 = Positive Case<br />
 2 = False case<br />
